@@ -5,4 +5,5 @@ D Duck
 E Eagle 
 F fish
 H Hen
-
+I ice fish
+J jaguar
